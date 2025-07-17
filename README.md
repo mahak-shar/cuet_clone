@@ -9,7 +9,8 @@ A static clone of the CUET(UG)-2022 official website built using **HTML** and **
 👉 [GitHub Repo](https://github.com/mahak-shar/cuet_clone)
 
 ## 📸 Preview
-![CUET Clone Preview](preview.jpg)
+
+![CUET Clone Preview](preview.png)
 
 ## 🛠️ Features
 - Replicates the structure of the CUET(UG)-2022 portal
